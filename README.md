@@ -1,4 +1,4 @@
-# Teaching Material for a HackClub workshop (demo, not production ready)
+# Teaching Material for a HackClub workshop  
 
 
 Objective: Make an AI figure out whether a tumor is malignant or benign. You can learn more about this [here](https://www.cancercenter.com/community/blog/2017/12/whats-the-difference-benign-and-malignant-tumors). Some more in depth resources to understand this if you are interested is:
@@ -7,6 +7,10 @@ Objective: Make an AI figure out whether a tumor is malignant or benign. You can
 3. https://www.nhs.uk/conditions/benign-brain-tumour/
 4. https://www.nhsinform.scot/illnesses-and-conditions/cancer/cancer-types-in-adults/malignant-brain-tumour-cancerous
 5. https://www.cancer.gov/about-cancer/understanding/what-is-cancer
+
+What is this GitHub repository for?
+- Good for teaching you the basics of using TensorFlow and neural networks
+- Not ideal for using the code as is - must be modified to use in actual application
 
 Why this is important?
 - About 1 in 8 women (US) will be diagnosed with breast cancer - https://www.breastcancer.org/symptoms/understand_bc/statistics
