@@ -58,9 +58,7 @@ Demonstration:
 
 Watch it train :)
 
-![asciicast](https://asciinema.org/a/blpmEfRicQGeudrTdEmzrijnp.png)(https://asciinema.org/a/blpmEfRicQGeudrTdEmzrijnp)
-
-
+[![asciicast](https://asciinema.org/a/blpmEfRicQGeudrTdEmzrijnp.png)](https://asciinema.org/a/blpmEfRicQGeudrTdEmzrijnp)
 
 
 ________________________________________________________________________________________________________________________________________________________________
