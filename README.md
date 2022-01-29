@@ -47,6 +47,12 @@ References for datasets, TensorFlow docs and papers on cancer survival to shed l
 - https://www.sciencedirect.com/science/article/pii/S0923753419569770
 
 
+Demonstration:
+
+![image](https://user-images.githubusercontent.com/75043245/151674166-d53dc00f-0b7b-4fc9-9f2b-8bf41d4d8697.png)
+
+
+
 ________________________________________________________________________________________________________________________________________________________________
 **
 DISCLAIMER: I am not a medical professional**
