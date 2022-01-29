@@ -1,1 +1,2 @@
-# CancerDiagnosis-TeachingMaterial
+# Teaching Material for a HackClub workshop
+
