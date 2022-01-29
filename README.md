@@ -33,3 +33,19 @@ Key Stuff
  - 1 - Malignant
  - 2 - Benign
  2. Numerical values relating to tumors that may or may not be cancerous - measurements describe properties of the cell's nucleus (eg, perimetr, texture, area, size )
+
+References for datasets, TensorFlow docs and papers on cancer survival to shed light into how important proper diagnosis is
+- https://www.kaggle.com/amandam1/breastcancerdataset
+- https://www.jmir.org/2019/7/e14464/
+- https://bmcresnotes.biomedcentral.com/articles/10.1186/s13104-019-4121-7
+- https://data.gov.uk/
+- https://www.kaggle.com/raghadalharbi/breast-cancer-gene-expression-profiles-metabric
+- https://www.tensorflow.org/api_docs/python/tf/all_symbols
+- https://www.nhs.uk/
+- https://www.nationalbreastcancer.org/breast-tumors/
+- https://www.sciencedirect.com/science/article/pii/S0923753419569770
+
+
+________________________________________________________________________________________________________________________________________________________________
+
+DISCLAIMER: I am not a medical professional
