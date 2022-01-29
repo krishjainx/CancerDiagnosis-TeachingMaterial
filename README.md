@@ -1,4 +1,5 @@
-# Teaching Material for a HackClub workshop  
+# Teaching Material for a HackClub workshop 
+<h2>Krish </h2>
 
 
 Objective: Make an AI figure out whether a tumor is malignant or benign. You can learn more about this [here](https://www.cancercenter.com/community/blog/2017/12/whats-the-difference-benign-and-malignant-tumors). Some more in depth resources to understand this if you are interested is:
