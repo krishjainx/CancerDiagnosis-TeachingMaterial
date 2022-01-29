@@ -16,11 +16,12 @@ Why this is important?
 -  Thus, women or men diagnosed with breast cancer often consult a second oncologist to ensure treatment/diagnosis is correct (costs money, long wait). Get second consultation from ML (can be trained as well as doctor, is faster than a doctor's diagnosis, not expensive)  
 
 
-Key Terms
+Key Stuff
 - Malignant (Tumor that must be removed)
 - Benign (Tumor that is not cancerous)
 - Supervised ML - We know whether tumor is malignant or benign (labeled data)
 - Cleaned data - Clean it of not needed useless/relevant info for this task of tumor classification
+- 80% training data, 20% test data
 
 
 - Dataset from tumors coming from Wisconson's breast cancer dataset (which is a simplified clean version of the dataset here: https://www.kaggle.com/uciml/breast-cancer-wisconsin-data)
