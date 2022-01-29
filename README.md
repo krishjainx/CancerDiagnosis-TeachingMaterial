@@ -9,8 +9,8 @@ Objective: Make an AI figure out whether a tumor is malignant or benign. You can
 5. https://www.cancer.gov/about-cancer/understanding/what-is-cancer
 
 Key Terms
-- Malignant (Tumor must be removed)
-- Benign (Tumor not cancerous)
+- Malignant (Tumor that must be removed)
+- Benign (Tumor that is not cancerous)
 
 - Dataset from tumors (which is a simplified version of the dataset here: https://www.kaggle.com/uciml/breast-cancer-wisconsin-data)
  1. Diagnosis 
