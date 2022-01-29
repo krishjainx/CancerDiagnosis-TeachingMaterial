@@ -56,8 +56,9 @@ References for datasets, TensorFlow docs and papers on cancer survival to shed l
 
 Demonstration:
 
-![image](https://user-images.githubusercontent.com/75043245/151674166-d53dc00f-0b7b-4fc9-9f2b-8bf41d4d8697.png)
+Watch it train :)
 
+[![asciicast](https://asciinema.org/a/blpmEfRicQGeudrTdEmzrijnp.png)(https://asciinema.org/a/blpmEfRicQGeudrTdEmzrijnp)
 
 
 ________________________________________________________________________________________________________________________________________________________________
