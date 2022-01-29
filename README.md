@@ -29,6 +29,13 @@ Key Stuff
 - 80% training data, 20% test data
 
 
+Install dependencies:
+
+```
+pip3 install pandas sklearn tensorflow keras 
+````
+
+
 - Dataset from tumors coming from Wisconson's breast cancer dataset (which is a simplified clean version of the dataset here: https://www.kaggle.com/uciml/breast-cancer-wisconsin-data)
  1. Diagnosis 
  - 1 - Malignant
