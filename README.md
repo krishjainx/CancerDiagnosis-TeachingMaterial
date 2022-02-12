@@ -54,12 +54,6 @@ References for datasets, TensorFlow docs and papers on cancer survival to shed l
 - https://www.sciencedirect.com/science/article/pii/S0923753419569770
 
 
-Demonstration:
-
-Watch it train :)
-
-[![asciicast](https://asciinema.org/a/blpmEfRicQGeudrTdEmzrijnp.png)](https://asciinema.org/a/blpmEfRicQGeudrTdEmzrijnp)
-
 
 ________________________________________________________________________________________________________________________________________________________________
 **
